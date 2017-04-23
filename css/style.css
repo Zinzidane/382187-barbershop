@@ -1,0 +1,9 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.index-content h2 {
+    font-family: "PTSansNarrowBold", "Arial", serif;
+}
